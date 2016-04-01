@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>optoinput.sch</source>
+    <date>śro, 23 mar 2016, 23:11:27</date>
+    <tool>Eeschema 4.0.2-4+6225~38~ubuntu14.04.1-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>optoinput.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F2FA8C</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F2FB8B</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F2FBD0</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F306AC</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F306B2</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F306B8</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F30B2C</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F30B32</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F30B38</tstamp>
+    </comp>
+    <comp ref="U13">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F30B62</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F30B68</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F30B6E</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F3199C</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F319A2</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F319A8</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F319D2</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F319D8</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F319DE</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F31A08</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F31A0E</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F31A14</tstamp>
+    </comp>
+    <comp ref="U14">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F31A3E</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F31A44</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F31A4A</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F31FD8</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F31FDE</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F31FE4</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F3200E</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F32014</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F3201A</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F32044</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F3204A</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F32050</tstamp>
+    </comp>
+    <comp ref="U15">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F3207A</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F32080</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F32086</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F326EC</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F326F2</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F326F8</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F32722</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F32728</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F3272E</tstamp>
+    </comp>
+    <comp ref="U12">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F32758</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F3275E</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F32764</tstamp>
+    </comp>
+    <comp ref="U16">
+      <value>4N25</value>
+      <footprint>DIP-6</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F3278E</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F32794</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F3279A</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>CONN_01X16</value>
+      <libsource lib="conn" part="CONN_01X16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F32027</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>CONN_01X16</value>
+      <libsource lib="conn" part="CONN_01X16"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F320E0</tstamp>
+    </comp>
+    <comp ref="P3">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F5615B</tstamp>
+    </comp>
+    <comp ref="P4">
+      <value>CONN_01X02</value>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F56238</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="opto" part="4N25">
+      <aliases>
+        <alias>4N26</alias>
+      </aliases>
+      <description>DIP6, DC Optocoupler Base Connected, Vce 30V, CTR 20%, Viso 2500V</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">4N25</field>
+        <field name="Footprint">DIP-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="5" name="~" type="passive"/>
+        <pin num="6" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X02">
+      <description>Connector 01x02</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X02</fp>
+        <fp>Pin_Header_Angled_1X02</fp>
+        <fp>Socket_Strip_Straight_1X02</fp>
+        <fp>Socket_Strip_Angled_1X02</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X16">
+      <description>Connector 01x16</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X16</fp>
+        <fp>Pin_Header_Angled_1X16</fp>
+        <fp>Socket_Strip_Straight_1X16</fp>
+        <fp>Socket_Strip_Angled_1X16</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X16</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+        <pin num="11" name="P11" type="passive"/>
+        <pin num="12" name="P12" type="passive"/>
+        <pin num="13" name="P13" type="passive"/>
+        <pin num="14" name="P14" type="passive"/>
+        <pin num="15" name="P15" type="passive"/>
+        <pin num="16" name="P16" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>/usr/share/kicad/library/device.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>/usr/share/kicad/library/conn.lib</uri>
+    </library>
+    <library logical="opto">
+      <uri>/usr/share/kicad/library/opto.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/Y11">
+      <node ref="P2" pin="11"/>
+      <node ref="R22" pin="2"/>
+      <node ref="U11" pin="5"/>
+    </net>
+    <net code="2" name="/Y2">
+      <node ref="P2" pin="2"/>
+      <node ref="R4" pin="2"/>
+      <node ref="U2" pin="5"/>
+    </net>
+    <net code="3" name="/Y3">
+      <node ref="P2" pin="3"/>
+      <node ref="R6" pin="2"/>
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="4" name="/Y4">
+      <node ref="P2" pin="4"/>
+      <node ref="U4" pin="5"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="5" name="/Y5">
+      <node ref="R10" pin="2"/>
+      <node ref="U5" pin="5"/>
+      <node ref="P2" pin="5"/>
+    </net>
+    <net code="6" name="/Y6">
+      <node ref="R12" pin="2"/>
+      <node ref="U6" pin="5"/>
+      <node ref="P2" pin="6"/>
+    </net>
+    <net code="7" name="/Y7">
+      <node ref="P2" pin="7"/>
+      <node ref="U7" pin="5"/>
+      <node ref="R14" pin="2"/>
+    </net>
+    <net code="8" name="/Y8">
+      <node ref="U8" pin="5"/>
+      <node ref="R16" pin="2"/>
+      <node ref="P2" pin="8"/>
+    </net>
+    <net code="9" name="/Y9">
+      <node ref="R18" pin="2"/>
+      <node ref="U9" pin="5"/>
+      <node ref="P2" pin="9"/>
+    </net>
+    <net code="10" name="/Y10">
+      <node ref="U10" pin="5"/>
+      <node ref="R20" pin="2"/>
+      <node ref="P2" pin="10"/>
+    </net>
+    <net code="11" name="/Y1">
+      <node ref="U1" pin="5"/>
+      <node ref="R2" pin="2"/>
+      <node ref="P2" pin="1"/>
+    </net>
+    <net code="12" name="/Y12">
+      <node ref="R24" pin="2"/>
+      <node ref="P2" pin="12"/>
+      <node ref="U12" pin="5"/>
+    </net>
+    <net code="13" name="/Y13">
+      <node ref="P2" pin="13"/>
+      <node ref="U13" pin="5"/>
+      <node ref="R26" pin="2"/>
+    </net>
+    <net code="14" name="/Y14">
+      <node ref="U14" pin="5"/>
+      <node ref="P2" pin="14"/>
+      <node ref="R28" pin="2"/>
+    </net>
+    <net code="15" name="/Y15">
+      <node ref="R30" pin="2"/>
+      <node ref="U15" pin="5"/>
+      <node ref="P2" pin="15"/>
+    </net>
+    <net code="16" name="/Y16">
+      <node ref="U16" pin="5"/>
+      <node ref="P2" pin="16"/>
+      <node ref="R32" pin="2"/>
+    </net>
+    <net code="17" name="/X8">
+      <node ref="P1" pin="8"/>
+      <node ref="U8" pin="1"/>
+      <node ref="R15" pin="2"/>
+    </net>
+    <net code="18" name="+12V">
+      <node ref="R9" pin="1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="R31" pin="1"/>
+      <node ref="R25" pin="1"/>
+      <node ref="R11" pin="1"/>
+      <node ref="P3" pin="1"/>
+      <node ref="R19" pin="1"/>
+      <node ref="R21" pin="1"/>
+      <node ref="R7" pin="1"/>
+      <node ref="R23" pin="1"/>
+      <node ref="R15" pin="1"/>
+      <node ref="R27" pin="1"/>
+      <node ref="R13" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="R5" pin="1"/>
+      <node ref="R17" pin="1"/>
+      <node ref="R29" pin="1"/>
+    </net>
+    <net code="19" name="/X1">
+      <node ref="U1" pin="1"/>
+      <node ref="P1" pin="1"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="20" name="/X2">
+      <node ref="U2" pin="1"/>
+      <node ref="R3" pin="2"/>
+      <node ref="P1" pin="2"/>
+    </net>
+    <net code="21" name="/X3">
+      <node ref="P1" pin="3"/>
+      <node ref="U3" pin="1"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="22" name="/X4">
+      <node ref="R7" pin="2"/>
+      <node ref="U4" pin="1"/>
+      <node ref="P1" pin="4"/>
+    </net>
+    <net code="23" name="/X5">
+      <node ref="P1" pin="5"/>
+      <node ref="U5" pin="1"/>
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="24" name="/X6">
+      <node ref="R11" pin="2"/>
+      <node ref="P1" pin="6"/>
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="25" name="/X7">
+      <node ref="P1" pin="7"/>
+      <node ref="R13" pin="2"/>
+      <node ref="U7" pin="1"/>
+    </net>
+    <net code="26" name="/X9">
+      <node ref="R17" pin="2"/>
+      <node ref="P1" pin="9"/>
+      <node ref="U9" pin="1"/>
+    </net>
+    <net code="27" name="/X10">
+      <node ref="R19" pin="2"/>
+      <node ref="P1" pin="10"/>
+      <node ref="U10" pin="1"/>
+    </net>
+    <net code="28" name="/X11">
+      <node ref="R21" pin="2"/>
+      <node ref="P1" pin="11"/>
+      <node ref="U11" pin="1"/>
+    </net>
+    <net code="29" name="/X12">
+      <node ref="U12" pin="1"/>
+      <node ref="R23" pin="2"/>
+      <node ref="P1" pin="12"/>
+    </net>
+    <net code="30" name="/X13">
+      <node ref="P1" pin="13"/>
+      <node ref="R25" pin="2"/>
+      <node ref="U13" pin="1"/>
+    </net>
+    <net code="31" name="/X14">
+      <node ref="U14" pin="1"/>
+      <node ref="P1" pin="14"/>
+      <node ref="R27" pin="2"/>
+    </net>
+    <net code="32" name="/X15">
+      <node ref="R29" pin="2"/>
+      <node ref="P1" pin="15"/>
+      <node ref="U15" pin="1"/>
+    </net>
+    <net code="33" name="GND">
+      <node ref="U9" pin="4"/>
+      <node ref="U1" pin="4"/>
+      <node ref="U13" pin="4"/>
+      <node ref="U15" pin="4"/>
+      <node ref="U5" pin="4"/>
+      <node ref="U16" pin="4"/>
+      <node ref="U14" pin="4"/>
+      <node ref="U6" pin="4"/>
+      <node ref="U12" pin="4"/>
+      <node ref="P4" pin="2"/>
+      <node ref="U8" pin="4"/>
+      <node ref="U2" pin="4"/>
+      <node ref="U3" pin="4"/>
+      <node ref="U7" pin="4"/>
+      <node ref="U11" pin="4"/>
+      <node ref="U10" pin="4"/>
+      <node ref="U4" pin="4"/>
+    </net>
+    <net code="34" name="GNDA">
+      <node ref="U6" pin="2"/>
+      <node ref="U12" pin="2"/>
+      <node ref="U15" pin="2"/>
+      <node ref="U11" pin="2"/>
+      <node ref="U13" pin="2"/>
+      <node ref="U4" pin="2"/>
+      <node ref="U9" pin="2"/>
+      <node ref="U8" pin="2"/>
+      <node ref="U7" pin="2"/>
+      <node ref="P3" pin="2"/>
+      <node ref="U10" pin="2"/>
+      <node ref="U2" pin="2"/>
+      <node ref="U1" pin="2"/>
+      <node ref="U3" pin="2"/>
+      <node ref="U16" pin="2"/>
+      <node ref="U5" pin="2"/>
+      <node ref="U14" pin="2"/>
+    </net>
+    <net code="35" name="VCC">
+      <node ref="R6" pin="1"/>
+      <node ref="R14" pin="1"/>
+      <node ref="R28" pin="1"/>
+      <node ref="R20" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="R10" pin="1"/>
+      <node ref="R12" pin="1"/>
+      <node ref="R30" pin="1"/>
+      <node ref="P4" pin="1"/>
+      <node ref="R26" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="R8" pin="1"/>
+      <node ref="R24" pin="1"/>
+      <node ref="R22" pin="1"/>
+      <node ref="R16" pin="1"/>
+      <node ref="R32" pin="1"/>
+      <node ref="R18" pin="1"/>
+    </net>
+    <net code="36" name="Net-(U12-Pad6)">
+      <node ref="U12" pin="6"/>
+    </net>
+    <net code="37" name="Net-(U8-Pad6)">
+      <node ref="U8" pin="6"/>
+    </net>
+    <net code="38" name="/X16">
+      <node ref="R31" pin="2"/>
+      <node ref="U16" pin="1"/>
+      <node ref="P1" pin="16"/>
+    </net>
+    <net code="39" name="Net-(U16-Pad6)">
+      <node ref="U16" pin="6"/>
+    </net>
+    <net code="40" name="Net-(U7-Pad6)">
+      <node ref="U7" pin="6"/>
+    </net>
+    <net code="41" name="Net-(U4-Pad6)">
+      <node ref="U4" pin="6"/>
+    </net>
+    <net code="42" name="Net-(U3-Pad6)">
+      <node ref="U3" pin="6"/>
+    </net>
+    <net code="43" name="Net-(U2-Pad6)">
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="44" name="Net-(U1-Pad6)">
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="45" name="Net-(U5-Pad6)">
+      <node ref="U5" pin="6"/>
+    </net>
+    <net code="46" name="Net-(U6-Pad6)">
+      <node ref="U6" pin="6"/>
+    </net>
+    <net code="47" name="Net-(U9-Pad6)">
+      <node ref="U9" pin="6"/>
+    </net>
+    <net code="48" name="Net-(U10-Pad6)">
+      <node ref="U10" pin="6"/>
+    </net>
+    <net code="49" name="Net-(U11-Pad6)">
+      <node ref="U11" pin="6"/>
+    </net>
+    <net code="50" name="Net-(U13-Pad6)">
+      <node ref="U13" pin="6"/>
+    </net>
+    <net code="51" name="Net-(U14-Pad6)">
+      <node ref="U14" pin="6"/>
+    </net>
+    <net code="52" name="Net-(U15-Pad6)">
+      <node ref="U15" pin="6"/>
+    </net>
+  </nets>
+</export>
