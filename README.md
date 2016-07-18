@@ -4,7 +4,7 @@ This repo contains a Kicad project of a very primitive opto-isolated binary inpu
 * Input R: 1K
 * Output R: 4.7K
 * Optocoupler: 4n25
-* 3.5mm screw terminal blocks (mix of 2 and 3 pin units)
+* 3.5mm screw terminal blocks (e.g. 6pcs of 2 pin and 3pcs of 3 pin)
 
 # Schematic
 
